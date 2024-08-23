@@ -1,1 +1,1 @@
-# Minesweepers_B
+# Minesweepers B
